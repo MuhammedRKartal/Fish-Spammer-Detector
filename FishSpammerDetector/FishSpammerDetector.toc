@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Fish Feast Spam Detector
+## Notes: Detects and announces Fish Feast spam
+## Author: Druth
+## Version: 1.0
+
+FishSpammerDetector.lua
